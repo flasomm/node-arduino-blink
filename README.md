@@ -13,6 +13,9 @@ Control a led (On, Off, Blink) plugged on an Arduino board with Node.js.
 How To Use
 ==========
 
+To Use
+----------
+
 - Upload the code to your arduino board arduino/blink.pde
 - Start the application node with 
 
