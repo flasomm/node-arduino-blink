@@ -20,6 +20,8 @@ How To Use
   node app.js
 </pre>
 
+- Navigate to localhost:3000
+
 To Install
 ----------
 
